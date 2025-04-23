@@ -9,7 +9,7 @@
   */
 :root {
   font-size: small;
-  --root-color: #bfbfbf; /* 00fbff */
+  --root-color: #00d941; /* 00fbff */
   /* --root-color: #0400ff; */
   /* --bg-color: color-mix(in srgb, var(--root-color) 10%, black); */
   --border-color: color-mix(
